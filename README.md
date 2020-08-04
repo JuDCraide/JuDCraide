@@ -12,4 +12,4 @@
 
 Sou estudante de Engenharia de Computação da UFRGS 📚📚
 
-Atualmente possuo interesse nas linguagens de programação C++ e JavaScript, alé de desenvolvimento FrontEnd usando tecnologias como: HTML5, CSS3, ReactJS e React Native 💻🖱️
+Atualmente possuo interesse nas linguagens de programação C++ e JavaScript, além de desenvolvimento FrontEnd usando tecnologias como: HTML5, CSS3, ReactJS e React Native 💻🖱️
